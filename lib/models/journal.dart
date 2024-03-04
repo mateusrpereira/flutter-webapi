@@ -16,3 +16,4 @@ class Journal {
     return "$content \ncreated_at: $createdAt\nupdated_at:$updatedAt";
   }
 }
+
